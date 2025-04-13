@@ -10,7 +10,6 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-      slug: /
     - name: 作品集
     - name: 博客
 
@@ -23,15 +22,13 @@ footer:
 
   follow:
     - type: twitter
-      name: Twitter
+      name: 小红书
       link: http://twitter.com/YourTwitterUsername
       username: "@YourTwitterUsername"
     - type: facebook
-      name: Facebook
+      name: 抖音
       link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+
 
 # Build settings
 markdown: kramdown
