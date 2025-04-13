@@ -21,11 +21,11 @@ footer:
       value: 1255105284@qq.com
 
   follow:
-    - type: twitter
+    - type: RedNote
       name: 小红书
       link: http://twitter.com/YourTwitterUsername
       username: "@YourTwitterUsername"
-    - type: facebook
+    - type: TikTok
       name: 抖音
       link: http://facebook.com/YourFacebookUsername
 
