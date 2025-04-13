@@ -10,10 +10,9 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
       slug: /
     - name: 作品集
-    - name: Blog
+    - name: 博客
 
 footer:
   show_powered_by: true
