@@ -19,11 +19,9 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+      name: 邮箱
+      value: 2549688583@qq.com
+
   follow:
     - type: twitter
       name: Twitter
@@ -35,15 +33,6 @@ footer:
     - type: linkedin
       name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
 
 # Build settings
 markdown: kramdown
